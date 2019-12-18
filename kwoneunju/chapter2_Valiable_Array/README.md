@@ -56,7 +56,7 @@
 * 요소 번호: 첫번째 배열 요소부터 마지막 배열 요소까지의 연속된 일련번호, 요소 식별 번호
   * 첫번째 배열 요소의 요소번호는 0
 
-<img src="../img/array.jpg" alt="" style="max-width:100%;">
+<img src="../img/2/array.jpg" alt="" style="max-width:100%;">
 
 ### 배열명의 철칙
 * 배열명은 고유해야 함
@@ -77,7 +77,7 @@
 ### 배열에서의 문자열
 각 요소에 문자가 저장된 문자 배열
 
-<img src="../img/array-string.jpg" alt="" style="max-width:100%;">
+<img src="../img/2/array-string.jpg" alt="" style="max-width:100%;">
 
 배열에 저장된 문자 데이터만으로는 그 배열의 몇번째 요소에서 문자열이 끝나는지 알 수 없음
 * 해결 방법
@@ -87,7 +87,7 @@
     : 문자열의 구성 문자로 절대로 표시되지 않는 문자코드(= 보초 값)를 배열의 문자열 끝 요소 뒷부분에 저장
     (숫자 0을 사용하는 것이 일반적)
 
-<img src="../img/array-string2.jpg" alt="" style="max-width:100%;">
+<img src="../img/2/array-string2.jpg" alt="" style="max-width:100%;">
 
 ### [ + 참고 ]
 * javascript에서의 배열
@@ -120,4 +120,4 @@
 * 문자열을 다루는 변수(배열)
   * **str** or **string**
 
-<img src="../img/column2.jpg" alt="" style="max-width:100%;">
+<img src="../img/2/column2.jpg" alt="" style="max-width:100%;">
